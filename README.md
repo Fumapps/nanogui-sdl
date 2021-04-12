@@ -1,3 +1,7 @@
+# Fork for MPWs
+
+Forked from https://github.com/dalerank/nanogui-sdl with a small change, which fixes the CMake Find procedure for SDLIMAGE.
+
 # NanoGUI-SDL [![Build Status](https://travis-ci.org/dalerank/nanogui-sdl.svg?branch=master)](https://travis-ci.org/dalerank/nanogui-sdl)
 
 NanoGUI-SDL is a SDL port for https://github.com/wjakob/nanogui
